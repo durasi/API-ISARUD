@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: API ISARUD\n"
+"POT-Creation-Date: 2025-01-07 20:00+0000\n"
+"PO-Revision-Date: 2025-01-10 01:41+0300\n"
+"Last-Translator: Seçkin Sefa Durası\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+
+# Genel metinler
+msgid "API ISARUD"
+msgstr "API ISARUD"
+
+msgid "API Ayarları"
+msgstr "API Ayarları"
+
+msgid "Ayarları Kaydet"
+msgstr "Ayarları Kaydet"
+
+# Durum metinleri
+msgid "Aktif"
+msgstr "Aktif"
+
+msgid "Pasif"
+msgstr "Pasif"
+
+msgid "Güncelleniyor..."
+msgstr "Güncelleniyor..."
+
+# Başarı/Hata mesajları
+msgid "Stok başarıyla güncellendi"
+msgstr "Stok başarıyla güncellendi"
+
+msgid "Geçersiz ürün ID"
+msgstr "Geçersiz ürün kimliği"
+
+msgid "Bir hata oluştu!"
+msgstr "Bir hata oluştu!"
+
+msgid "JSON Decode Hatası"
+msgstr "JSON Çözümleme Hatası"
+
+msgid "API yanıtı geçersiz format içeriyor"
+msgstr "API yanıtı geçersiz biçim içeriyor"
+
+msgid "XML Parse Hatası"
+msgstr "XML Çözümleme Hatası"
+
+msgid "Geçersiz nonce"
+msgstr "Geçersiz güvenlik belirteci"
+
+# API hata mesajları
+msgid "API bilgileri eksik"
+msgstr "API bilgileri eksik"
+
+msgid "WooCommerce ürünü bulunamadı"
+msgstr "WooCommerce ürünü bulunamadı"
+
+msgid "API bağlantı hatası"
+msgstr "API bağlantı hatası"
+
+msgid "API Bağlantı Hatası"
+msgstr "API Bağlantı Hatası"
+
+msgid "API Yanıt Hatası"
+msgstr "API Yanıt Hatası"
+
+msgid "Toplu Güncelleme Hatası"
+msgstr "Toplu Güncelleme Hatası"
+
+msgid "Listing ID gerekli"
+msgstr "Liste kimliği gerekli"
+
+msgid "ASIN gerekli"
+msgstr "ASIN gerekli"
+
+msgid "Rapor ID gerekli"
+msgstr "Rapor kimliği gerekli"
+
+msgid "Fiyat bilgisi gerekli"
+msgstr "Fiyat bilgisi gerekli"
+
+msgid "Güncellenecek ürün bilgisi gerekli"
+msgstr "Güncellenecek ürün bilgisi gerekli"
+
+# Pazaryeri alan etiketleri
+msgid "API Key"
+msgstr "API Anahtarı"
+
+msgid "API Secret"
+msgstr "API Gizli Anahtarı"
+
+msgid "Satıcı ID"
+msgstr "Satıcı Kimliği"
+
+msgid "Kullanıcı Adı"
+msgstr "Kullanıcı Adı"
+
+msgid "Şifre"
+msgstr "Şifre"
+
+msgid "Merchant ID"
+msgstr "Mağaza Kimliği"
+
+msgid "Access Token"
+msgstr "Erişim Anahtarı"
+
+msgid "Shop URL"
+msgstr "Mağaza URL"
+
+msgid "Shop ID"
+msgstr "Mağaza Kimliği"
+
+# Alan açıklamaları
+msgid "Trendyol Seller API anahtarınız"
+msgstr "Trendyol Satıcı API anahtarınız"
+
+msgid "Trendyol Seller API gizli anahtarınız"
+msgstr "Trendyol Satıcı API gizli anahtarınız"
+
+msgid "Trendyol mağaza ID'niz"
+msgstr "Trendyol mağaza kimliğiniz"
+
+msgid "N11 API anahtarınız"
+msgstr "N11 API anahtarınız"
+
+msgid "N11 API gizli anahtarınız"
+msgstr "N11 API gizli anahtarınız"
+
+msgid "HepsiBurada entegrasyon kullanıcı adınız"
+msgstr "HepsiBurada entegrasyon kullanıcı adınız"
+
+msgid "HepsiBurada entegrasyon şifreniz"
+msgstr "HepsiBurada entegrasyon şifreniz"
+
+msgid "HepsiBurada mağaza ID'niz"
+msgstr "HepsiBurada mağaza kimliğiniz"
+
+msgid "Amazon MWS Access Key"
+msgstr "Amazon MWS Erişim Anahtarı"
+
+msgid "Amazon MWS Secret Key"
+msgstr "Amazon MWS Gizli Anahtarı"
+
+msgid "Amazon Seller ID"
+msgstr "Amazon Satıcı Kimliği"
+
+msgid "Amazon Marketplace ID (TR: A1UNQM1LXV2WWF)"
+msgstr "Amazon Pazaryeri Kimliği (TR: A1UNQM1LXV2WWF)"
+
+msgid "Pazarama API anahtarınız"
+msgstr "Pazarama API anahtarınız"
+
+msgid "Pazarama API gizli anahtarınız"
+msgstr "Pazarama API gizli anahtarınız"
+
+msgid "Pazarama mağaza ID'niz"
+msgstr "Pazarama mağaza kimliğiniz"
+
+msgid "Etsy API anahtarınız"
+msgstr "Etsy API anahtarınız"
+
+msgid "Etsy OAuth 2.0 Access Token"
+msgstr "Etsy OAuth 2.0 Erişim Anahtarı"
+
+msgid "Etsy mağaza ID'niz"
+msgstr "Etsy mağaza kimliğiniz"
+
+msgid "Shopify mağaza URL'niz"
+msgstr "Shopify mağaza adresiniz"
+
+msgid "Shopify Admin API Access Token"
+msgstr "Shopify Yönetici API Erişim Anahtarı"
+
+# Admin panel metinleri
+msgid "Pazaryeri Entegrasyonları"
+msgstr "Pazaryeri Entegrasyonları"
+
+msgid "Son İşlem Logları"
+msgstr "Son İşlem Kayıtları"
+
+msgid "Son Senkronizasyon"
+msgstr "Son Senkronizasyon"
+
+msgid "İşlemler"
+msgstr "İşlemler"
+
+msgid "Stok Güncelle"
+msgstr "Stok Güncelle"
+
+msgid "Tarih"
+msgstr "Tarih"
+
+msgid "Durum"
+msgstr "Durum"
+
+msgid "Mesaj"
+msgstr "Mesaj"
+
+msgid "Henüz log kaydı bulunmuyor."
+msgstr "Henüz işlem kaydı bulunmuyor."
+
+# WooCommerce uyarıları
+msgid "API ISARUD eklentisi için WooCommerce gereklidir. Lütfen WooCommerce'i yükleyin ve aktifleştirin."
+msgstr "API ISARUD eklentisi için WooCommerce gereklidir. Lütfen WooCommerce'i yükleyin ve aktifleştirin."
+
+# Ürün alanları
+msgid "Trendyol Barkod"
+msgstr "Trendyol Barkod"
+
+msgid "N11 Ürün ID"
+msgstr "N11 Ürün Kimliği"
+
+msgid "HepsiBurada Ürün ID"
+msgstr "HepsiBurada Ürün Kimliği"
+
+msgid "Amazon ASIN"
+msgstr "Amazon ASIN"
+
+msgid "Pazarama Ürün ID"
+msgstr "Pazarama Ürün Kimliği"
+
+msgid "Etsy Listing ID"
+msgstr "Etsy Liste Kimliği"
+
+msgid "Shopify Product ID"
+msgstr "Shopify Ürün Kimliği"
+
+msgid "Shopify Variant ID"
+msgstr "Shopify Varyant Kimliği"
+
+msgid "Shopify Inventory Item ID"
+msgstr "Shopify Envanter Öğe Kimliği"
+
+msgid "Shopify Location ID"
+msgstr "Shopify Konum Kimliği"
+
+# Alan açıklamaları
+msgid "Trendyol ürün barkod numarası"
+msgstr "Trendyol ürün barkod numarası"
+
+msgid "N11 ürün ID numarası"
+msgstr "N11 ürün kimlik numarası"
+
+msgid "HepsiBurada ürün ID numarası"
+msgstr "HepsiBurada ürün kimlik numarası"
+
+msgid "Amazon ürün ASIN numarası"
+msgstr "Amazon ürün ASIN numarası"
+
+msgid "Pazarama ürün ID numarası"
+msgstr "Pazarama ürün kimlik numarası"
+
+msgid "Etsy ürün listing ID numarası"
+msgstr "Etsy ürün liste kimlik numarası"
+
+msgid "Shopify ürün ID numarası"
+msgstr "Shopify ürün kimlik numarası"
+
+msgid "Shopify varyant ID numarası"
+msgstr "Shopify varyant kimlik numarası"
+
+msgid "Shopify envanter öğesi ID numarası"
+msgstr "Shopify envanter öğesi kimlik numarası"
+
+msgid "Shopify konum ID numarası"
+msgstr "Shopify konum kimlik numarası"

@@ -1,0 +1,65 @@
+.support-links {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.link-box {
+    flex: 1;
+    border: 1px solid #ccd0d4;
+    padding: 15px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.link-box h3 {
+    margin-top: 0;
+    color: #23282d;
+}
+
+.link-box p {
+    color: #666;
+}
+
+.link-box .button {
+    margin-top: 10px;
+}
+
+.status-active {
+    background-color: #46b450;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.status-inactive {
+    background-color: #dc3232;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    padding: 1em;
+    margin: 1em 0;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+.form-table th {
+    width: 200px;
+}
+.status-indicator {
+    font-size: 12px;
+    padding: 4px 8px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.status-indicator.active {
+    background: #46b450;
+    color: #fff;
+}
+.status-indicator.inactive {
+    background: #dc3232;
+    color: #fff;
+}
